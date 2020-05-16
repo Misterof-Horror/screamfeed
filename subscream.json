@@ -1,0 +1,193 @@
+{
+  "providerName": "Suburban Screams",
+  "lastUpdated": "2020-05-12T07:02:12-04:00",
+  "language": "en",
+  "categories": [
+    {
+      "name": "Housewife of Horror",
+      "query": "Housewife of Horror",
+      "order": "most_recent"
+    },
+    {
+      "name": "Hexen Arcane",
+      "query": "Hexen Arcane",
+      "order": "most_recent"
+    }
+  ],
+  "movies": [
+    {
+      "id": "417410008",
+      "title": "Hexen Arcane Presents: Horror Rises From the Tomb",
+      "shortDescription": "[{\"category\":\"Hexen Arcane\"}]\nIntroducing a brand new show from two horror hosting veterans... The Parker sisters, Morgan and Celeste, welcome you to Hexen Arcane! In their premier episode, the sisters bring you the 1972 Paul Naschy film Horror Rises From The Tomb with a special introduction by paul Naschy's son, Sergio Molina. You'll also tag along as Morgan and Celeste romp around some historic midwest cemeteries!",
+      "thumbnail": "https://i.vimeocdn.com/video/891654520_800x450.png",
+      "releaseDate": "2020-05-11T19:59:37-04:00",
+      "genres": [
+        "Hexen Arcane",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "tags": [
+        "Hexen Arcane",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-05-11T21:22:21-04:00",
+        "duration": 6953,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/417410008.hd.mp4?s=e0c646c04e803221dd3eb2facfa4788ae6f49b41&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1706596
+          }
+        ]
+      }
+    },
+    {
+      "id": "417270854",
+      "title": "Housewife of Horror Presents: The Baby Farmer",
+      "shortDescription": "[{\"category\":\"Housewife of Horror\"}]\nHousewife of Horror is proud to present the first film appearance of Pricilla Rex in Jaime Herrera, Jr.'s The Baby Farmer!\nThe Housewife and Mister of Horror join Jaime for a chat, a tour of Scott's and a game of \"Who's holding the weirdest thing now?\" Plus, a mad gasser, a man with three legs and... Alan Tudyk?",
+      "thumbnail": "https://i.vimeocdn.com/video/891451558_800x450.png",
+      "releaseDate": "2020-05-11T12:53:54-04:00",
+      "genres": [
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "tags": [
+        "Housewife of Horror",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-05-11T13:25:03-04:00",
+        "duration": 6537,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/417270854.sd.mp4?s=2b855b8f8f877e2e4b2efc1d915557327e731e31&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1117789
+          }
+        ]
+      }
+    },
+    {
+      "id": "417200416",
+      "title": "Housewife of Horror presents: The Atomic Man",
+      "shortDescription": "[{\"category\":\"Housewife of Horror\"}]\nIt's Atomic April at the Household of Horror, watch the Housewife and Mister of Horror come a bit unstuck in time exploring the atomic age collection at Roscoe's Woodstock Antique Mall as they present 1955's The Atomic Man.",
+      "thumbnail": "https://i.vimeocdn.com/video/891361833_800x450.png",
+      "releaseDate": "2020-05-11T09:48:18-04:00",
+      "genres": [
+        "Housewife of Horror",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "tags": [
+        "Housewife of Horror",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-05-11T10:28:54-04:00",
+        "duration": 7067,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/417200416.sd.mp4?s=40ae695888b1c779ea258a601878c8da7feedb19&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1172088
+          }
+        ]
+      }
+    },
+    {
+      "id": "416726227",
+      "title": "Housewife of Horror Presents: Crash of The Moons",
+      "shortDescription": "[{\"category\":\"Housewife of Horror\"}]\nThe Housewife and Mister of Horror close out Atomic April with a classic space age adventure, Rocky Jones, Space Ranger: Crash of The Moons!\nPlus, an awkward and loving tribute to Mitch O'Connell, The World's Greatest Artist. and BEATRICE!!!",
+      "thumbnail": "https://i.vimeocdn.com/video/890691648_800x450.png",
+      "releaseDate": "2020-05-09T15:17:43-04:00",
+      "genres": [
+        "Housewife of Horror",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "tags": [
+        "Housewife of Horror",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-05-09T16:00:17-04:00",
+        "duration": 7176,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/416726227.sd.mp4?s=5a7db0dee013ff35e69dccd9aea29bed7ce67c36&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1038922
+          }
+        ]
+      }
+    },
+    {
+      "id": "416719888",
+      "title": "Housewife of Horror Presents: The Atomic Brain",
+      "shortDescription": "[{\"category\":\"Housewife of Horror\"}]\nCome by the Household of Horror for a showing of 1963's The Atomic Brain, aka: Monstrosity, as The Housewife and Mister of Horror ring in their first annual Atomic April in much the same way they do most things...with style!",
+      "thumbnail": "https://i.vimeocdn.com/video/890696123_800x450.png",
+      "releaseDate": "2020-05-09T14:49:07-04:00",
+      "genres": [
+        "Housewife of Horror",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "tags": [
+        "Housewife of Horror",
+        "horror",
+        "reality",
+        "science fiction",
+        "thriller",
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-05-09T15:28:53-04:00",
+        "duration": 7171,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/416719888.sd.mp4?s=753a99ad8193f47fed1585fb8a72e8cc90cde7c6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 939406
+          }
+        ]
+      }
+    }
+  ]
+}
